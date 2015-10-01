@@ -1,0 +1,10 @@
+{
+  "name": "exif",
+  "description": "A meteor package for exif.js, a library for reading EXIF metadata from JPEG image files.",
+  "homepage": "https://github.com/andrewcoelho/meteor-exif",
+  "author": "Andrew Coelho <info@andrewcoelho.com>",
+  "version": "0.0.1",
+  "git": "https://github.com/andrewcoelho/meteor-exif.git",
+  "packages": {
+  }
+}
